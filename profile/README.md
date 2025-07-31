@@ -1,4 +1,4 @@
-# 🤖 AI For Developers
+# 🤖 [AI For Developers](https://aifordevelopers.org)
 
 Welcome to **[AI For Developers](https://aifordevelopers.org)** — your open-source hub for discovering, using, and building the best AI-powered tools for modern software development. We’re curating, testing, and sharing practical tools and workflows that help developers write, test, debug, refactor, and ship better software — faster — with the power of AI.
 
