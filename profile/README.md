@@ -12,6 +12,8 @@ Connect with us:📬 **[Newsletter](https://aifordevelopers.substack.com/)**, **
 
 ## 🛠 Projects
 
-- 📚 [`awesome-ai-coding-tools`](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐⭐⭐
-- 🌐 [`aifordevelopers.org`](https://aifordevelopers.org) ⭐⭐⭐
+- 🌐 [`AI For Developers`](https://aifordevelopers.org) ⭐⭐⭐
+- 📚 [`Awesome AI Coding Tools`](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐⭐⭐
+- 📚 [`Awesome Vibe Coding`](https://github.com/ai-for-developers/awesome-vibe-coding) ⭐⭐
+
 ---
