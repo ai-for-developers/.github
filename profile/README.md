@@ -6,7 +6,7 @@ Explore our tools and categories, and stay up-to-date on what’s next: [**AI Fo
 
 ---
 
-Connect with us:📬 **[Newsletter](https://aifordevelopers.substack.com/)**, **[Contact Email](mailto:contact@aifordevelopers.org)**, **[X](https://x.com/ai4developers)**, **[LinkedIn](https://www.linkedin.com/company/aifordevelopers-org)**, **[DEV.to](https://dev.to/aifordevelopers)**, **[IndieHackers](https://www.indiehackers.com/aifordevelopers)**
+Connect with us:📬 **[Newsletter](https://aifordevelopers.substack.com/)**, **[Contact Email](mailto:contact@aifordevelopers.org)**, **[X](https://x.com/ai4developers)**, **[LinkedIn](https://www.linkedin.com/company/aifordevelopers-org)**, **[DEV.to](https://dev.to/aifordevelopers)**, [Blog](https://aifordevelopers.medium.com/) ,**[IndieHackers](https://www.indiehackers.com/aifordevelopers)**
 
 ---
 
