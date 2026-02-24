@@ -15,5 +15,6 @@ Connect with us:📬 **[Newsletter](https://aifordevelopers.substack.com/)**, **
 - 🌐 [`AI For Developers`](https://aifordevelopers.org) ⭐⭐⭐
 - 📚 [`Awesome AI Coding Tools`](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐⭐⭐
 - 📚 [`Awesome Vibe Coding`](https://github.com/ai-for-developers/awesome-vibe-coding) ⭐⭐
+- 📚 [`Awesome Claude`](https://github.com/ai-for-developers/awesome-claude) ⭐⭐
 
 ---
